@@ -80,7 +80,7 @@ margin-bottom: 4rem;
 }
 
 #highScore-btn {
-    background:linear-gradient(90deg,rgb(236, 4, 4)0%, rgb(224, 22, 22)100%);
+    background:linear-gradient(90deg,rgb(236, 220, 4)0%, rgb(224, 22, 22)100%);
 }
 
 ##highScore-btn:hover {
